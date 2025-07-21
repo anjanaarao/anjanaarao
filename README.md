@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Anjana Rao 👋</h1>
-<h3 align="center">ECE Undergrad | Developer | Research Enthusiast | Curious Creator</h3>
 
 ### About Me
 
