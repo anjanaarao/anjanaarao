@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Anjana Rao!</h1>
+<h6 align="center">Learning with intention. Growing through curiosity. Creating with impact!</h6>
 
 ### 🎓 About Me
 
@@ -21,5 +22,5 @@
 **Tools**: Git, GitHub  
 **Interests**: Data Structures and Algorithms, Web Development, Machine Learning
 
-<h6 align="center">Learning with intention. Growing through curiosity. Creating with impact!</h6>
+
 
