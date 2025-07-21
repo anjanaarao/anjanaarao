@@ -3,7 +3,7 @@
 ### About Me
 
 - Electronics and Communication Engineering Undergrad
-- Passionate about combining tech with and social impact
+- Passionate about combining tech with social impact
 
 ---
 
