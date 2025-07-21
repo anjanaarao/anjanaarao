@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anjana Rao!</h1>
 
-### About Me
+### 🎓 About Me
 
 - Electronics and Communication Engineering Undergrad
 - Passionate about combining tech with social impact
