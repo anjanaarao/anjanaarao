@@ -21,5 +21,5 @@
 **Tools**: Git, GitHub  
 **Interests**: Data Structures and Algorithms, Web Development, Machine Learning
 
-_✨ "Building with purpose. Learning with passion. Leading with empathy."_  
+<h1 align="center">_✨ Learning with intention. Growing through curiosity. Creating with impact._  </h1>
 
