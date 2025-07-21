@@ -11,7 +11,7 @@
 
 🩺 **[Maa & More – Maternal Healthcare Tracker](https://github.com/anjanaarao/maa-and-more-website)**   
 
-📊 **[Customer Segmentation with XAI](https://github.com/anjanaarao/Customer-Segmentation)**   
+📊 **[Customer Segmentation Analytics](https://github.com/anjanaarao/Customer-Segmentation)**   
 
 ---
 
