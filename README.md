@@ -21,5 +21,5 @@
 **Tools**: Git, GitHub  
 **Interests**: Data Structures and Algorithms, Web Development, Machine Learning
 
-<h1 align="center">_✨ Learning with intention. Growing through curiosity. Creating with impact._  </h1>
+<h6 align="center">✨Learning with intention. Growing through curiosity. Creating with impact</h6>
 
