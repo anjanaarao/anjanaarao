@@ -21,7 +21,7 @@
 
 **Languages**: C/C++, Python, HTML, CSS, JavaScript  
 **Tools**: Git, GitHub  
-**Interests**: DSA, Web Dev, Machine Learning
+**Interests**: Data Structures and Algorithms, Web Development, Machine Learning
 
 _✨ "Building with purpose. Learning with passion. Leading with empathy."_  
 
