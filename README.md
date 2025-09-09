@@ -18,14 +18,29 @@
 
 ### 🛠 Skills & Tools
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange?logo=jupyter&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Tools-Google%20Colab-yellow?logo=googlecolab&logoColor=black)
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<!-- Jupyter Notebook -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
+<!-- C++ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+<!-- Google Colab -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_logo.svg" width="40" height="40"/>
 
 
 
