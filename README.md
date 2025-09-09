@@ -22,4 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8c2470af-2137-46d7-aeb2-6c8a59279379" />
+
 </p>
