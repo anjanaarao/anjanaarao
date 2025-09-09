@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjana Rao!</h1>
-<h6 align="center">ECE Undergrad @ IGDTUW | Growing through curiosity, Creating with impact.</h6>
+<h4 align="center">ECE Undergrad @ IGDTUW | Growing through curiosity, Creating with impact.</h4>
 
 --- 
 
