@@ -26,5 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_logo.svg" width="40" height="40"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_logo.svg](https://colab.research.google.com/img/colab_favicon_256px.png)" width="40" height="40"/>
 </p>
