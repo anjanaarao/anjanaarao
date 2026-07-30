@@ -25,7 +25,7 @@
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,azure,nodejs,react,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,azure,nodejs,tailwind,git,github,vscode" />
 </p>
 
 ### AI / Machine Learning
