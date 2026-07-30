@@ -15,9 +15,9 @@
 
   --- 
 
-  # Techical Skills & Interests
+<h1 align="right">Technical Skills & Interests</h1>
 
-### Languages
+<h1 align="right">Languages</h1>
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,ts,html,css" />
