@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjana!</h1>
-<h4 align="center">ECE Undergraduate @ Indira Gandhi Delhi Technical University for Women
+<h4 align="center">ECE Undergraduate @ Indira Gandhi Delhi Technical University for Women</h4>
   
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -11,6 +11,7 @@
   <a href="mailto:anjanarao26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+</p>
 
   --- 
 
