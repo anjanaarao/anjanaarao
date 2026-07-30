@@ -14,33 +14,43 @@
 
   --- 
 
-  # 🚀 Tech Stack
+  # Techical Skills & Interests
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,mysql,html5,css3" />
 </p>
 
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,azure,nodejs,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,azure,jupyter,git,github,vscode" />
 </p>
 
-### AI / Machine Learning
+### Agentic Artifical Intelligence
+
+### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
-- Large Language Models
-- AI Agents
-- Azure Functions
-- Prompt Engineering
-- OpenAI APIs
-- SHAP
-- LIME
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Large%20Language%20Models-4361EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-F77F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2A9D8F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM%20Evaluation-E63946?style=for-the-badge"/>
+
+</p>
 
 ---
 
