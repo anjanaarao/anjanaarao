@@ -15,21 +15,21 @@
 
   --- 
 
-<h1 align="right">Technical Skills & Interests</h1>
+<h1 align="Left">Technical Skills & Interests</h1>
 
-<h1 align="right">Languages</h1>
+<h1 align="Left">Languages</h1>
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,ts,html,css" />
 </p>
 
-### Frameworks & Tools
+<h1 align="Left">Frameworks & Tools</h1>
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,supabase,azure,git,github,gitlab,visualstudio,vscode,jupyter" />
 </p>
 
-### Agentic Artifical Intelligence
+<h1 align="Left">Agentic Artifical Intelligence</h1>
 
 <p align="left">
 
