@@ -19,7 +19,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,mysql,html5,css3" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,sql,html5,css3" />
 </p>
 
 ### Frameworks & Tools
@@ -29,8 +29,6 @@
 </p>
 
 ### Agentic Artifical Intelligence
-
-### AI & Machine Learning
 
 <p>
 
