@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Anjana!</h1>
-<h4 align="center">ECE Undergrad @ IGDTUW | Growing through curiosity, Creating with impact.</h4>
-
+<h4 align="center">ECE Undergraduate @ Indira Gandhi Delhi Technical University for Women
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
