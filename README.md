@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anjana!</h1>
-<h3 align="center">ECE Undergraduate | Indira Gandhi Delhi Technical University for Women</h3>
+<h3 align="center">Hi, I'm Anjana!</h3>
+<h4 align="center">ECE Undergraduate | Indira Gandhi Delhi Technical University for Women</h4>
   
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -15,21 +15,21 @@
 
   --- 
 
-<h1 align="Left">Technical Skills & Interests:</h1>
+<h3 align="Left">Technical Skills & Interests:</h3>
 
-<h1 align="Left">Languages</h1>
+<h3 align="Left">Languages</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,ts,html,css" />
 </p>
 
-<h1 align="Left">Frameworks & Tools</h1>
+<h3 align="Left">Frameworks & Tools</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,supabase,azure,git,github,gitlab,visualstudio,vscode,jupyter" />
 </p>
 
-<h1 align="Left">Agentic Artifical Intelligence</h1>
+<h3 align="Left">Agentic Artifical Intelligence</h3>
 
 <p align="left">
 
