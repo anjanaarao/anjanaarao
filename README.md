@@ -15,7 +15,7 @@
 
   --- 
 
-<h1 align="Left">Technical Skills & Interests</h1>
+<h1 align="Left">Technical Skills & Interests:</h1>
 
 <h1 align="Left">Languages</h1>
 
