@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjana!</h1>
-<h4 align="center">ECE Undergraduate | Indira Gandhi Delhi Technical University for Women</h4>
+<h3 align="center">ECE Undergraduate | Indira Gandhi Delhi Technical University for Women</h3>
   
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
