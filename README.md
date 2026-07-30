@@ -19,7 +19,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,sql,html5,css3" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,ts,html,css" />
 </p>
 
 ### Frameworks & Tools
@@ -30,21 +30,15 @@
 
 ### Agentic Artifical Intelligence
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic%20AI-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6C5CE7?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Large%20Language%20Models-4361EE?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-F77F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-00B894?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2A9D8F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-F39C12?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LLM%20Evaluation-E63946?style=for-the-badge"/>
 
