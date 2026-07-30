@@ -25,7 +25,7 @@
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,azure,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,azure,git,github,visualstudio,vscode,jupyter" />
 </p>
 
 ### Agentic Artifical Intelligence
