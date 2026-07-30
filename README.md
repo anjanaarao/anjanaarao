@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Anjana!</h3>
+<h2 align="center">Hi, I'm Anjana!</h2>
 <h4 align="center">ECE Undergraduate | Indira Gandhi Delhi Technical University for Women</h4>
   
 <p align="center">
